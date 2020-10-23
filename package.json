@@ -1,0 +1,19 @@
+{
+  "name": "nodepackage",
+  "version": "1.0.0",
+  "description": "nodepackage test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjorogeVictor/nodepackage.git"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjorogeVictor/nodepackage/issues"
+  },
+  "homepage": "https://github.com/NjorogeVictor/nodepackage#readme"
+}
