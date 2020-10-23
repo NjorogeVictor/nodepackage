@@ -1,3 +1,4 @@
 exports.myDate = function () {
-  return new Date();
+  const date = new Date();
+  return date;
 };
