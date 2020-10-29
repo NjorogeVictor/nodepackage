@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NjorogeVictor/nodepackage/issues"
   },
-  "homepage": "https://github.com/NjorogeVictor/nodepackage#readme"
+  "homepage": "https://github.com/NjorogeVictor/nodepackage#readme",
+  "publishConfig": {
+    "registry": "https://npm.nodepackage.github.com/"
+  }
 }
